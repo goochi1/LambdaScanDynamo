@@ -15,7 +15,7 @@ Module Input Variables
 Usage
 ----------------------
 - Change bucket name in main.tf
-- change tabel name in main.tf
+- Change tabel name in main.tf
 - Change bucket name in manifest.tf
 - Change Profile in backend and main
 - Change tf state bucket in backen
